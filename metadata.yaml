@@ -1,0 +1,31 @@
+_repo: A-Voyage-Round-the-World-Being-an-account-of-a-remarkable-enterprize-begun-in-the-year-1719-c__62355
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Betagh, William
+    gutenberg_agent_id: '51911'
+    url: http://www.gutenberg.org/2009/agents/51911
+description: ''
+gutenberg_issued: '2020-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62355'
+  lccn: 05027184
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clipperton, John, 1676-1722'
+- !lcsh 'Success (Ship)'
+- !lcsh 'Privateering'
+- !lcsh 'Anglo-Spanish War, 1718-1720'
+- !lcsh 'Voyages around the world -- Early works to 1800'
+- !lcsh 'Shelvocke, George'
+- !lcc 'G'
+- GITenberg
+title: "A Voyage Round the World\r\nBeing an account of a remarkable enterprize, begun\
+  \ in the year 1719, chiefly to cruise on the Spaniards in the great South ocean.\
+  \ Relating the true historical facts of that whole affair: testifyd by many imployd\
+  \ therein; and confirmd by authorities from the owners."
+url: http://www.gutenberg.org/ebooks/62355
